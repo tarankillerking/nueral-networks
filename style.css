@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background-image:linear-gradient(rgb(255, 81, 0),orange,rgba(255, 200, 0, 0.895),yellow,rgba(255, 200, 0, 0.895),orange,rgb(255,81,0)) ;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 20px;
+  font-family: 'Great Vibes', cursive;
+}
+#t{
+  font-size:  25px ;
+  color:black ;
+  font-family: 'Great Vibes', cursive;
+}
+#yu{
+  background-color: black;
+}
